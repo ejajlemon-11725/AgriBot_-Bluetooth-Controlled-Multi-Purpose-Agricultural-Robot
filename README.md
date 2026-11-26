@@ -183,6 +183,10 @@ AgriBot/
 └── README.md
 ```
 
+## 🙏 Acknowledgements
+
+We sincerely thank **Nazmun Nahid**, Assistant Professor, **University of Asia Pacific**, for her valuable guidance, support and encouragement throughout this project.
+
 ## 👤 Author
 
 **Ejaj Ahmmod Lemon**, Reg. ID 23101160
