@@ -2,8 +2,9 @@
 
 > **One robot, many field tasks.** A low-cost, Arduino-based farming robot that ploughs, sows seeds, irrigates and sprays pesticide, all controlled from an Android phone over Bluetooth.
 
-**Project group:** GreenPulse Robotics
-**Presented by:** Ejaj Ahmmod Lemon (Reg. ID: 23101160)
+**Project group:** **GreenPulse Robotics**
+
+**Presented by:** **Ejaj Ahmmod Lemon** **(Reg. ID: 23101160)**
 
 ---
 
